@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, IOT**
 
-- 📫 How to reach me **https://www.linkedin.com/in/divyansh-nautiyal-956776238/**
+- 📫 How to reach me **https://www.linkedin.com/in/divyansh-nautiyal-149817280/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
