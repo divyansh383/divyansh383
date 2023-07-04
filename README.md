@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/divyansh-nautiyal-956776238](https://www.linkedin.com/in/divyansh-nautiyal-149817280/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyansh-nautiyal-149817280/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/divyansh-nautiyal-149817280/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyansh-nautiyal-149817280/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ndivyansh29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ndivyansh29" height="30" width="40" />
 </p>
 
